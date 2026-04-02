@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-feishu-multi-bot",
+  "version": "1",
+  "author": "simonlin",
+  "description": "Configure multiple Feishu/Lark bot identities within a single OpenClaw instance — each Agent gets its own Feishu App, name, avatar, and message routing.",
+  "tags": ["feishu", "lark", "multi-bot", "routing", "configuration", "飞书"],
+  "homepage": "",
+  "license": "MIT"
+}
